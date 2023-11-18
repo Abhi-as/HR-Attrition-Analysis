@@ -35,7 +35,7 @@ This project, the HR Attrition Dashboard, is a comprehensive analysis tool devel
 
 ## Screenshots
 ![HR Attrition Dashboard Overview](Overview.png)
-![Demographic Insights Dashboard](Demographic.png)
+![Demographic Insights Dashboard](Demographics.png)
 
 For Detailed Info
 
